@@ -10,7 +10,7 @@
 
 * Node.js (with `npm`).
 
-## Backend local development
+## Backend local developments
 
 * Start the stack with Docker Compose:
 
